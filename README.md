@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @user61400
+- 👀 I’m interested in programming, photography and basketball.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python authentication bots.
+- 📫 How to reach me
+- Discord: VoidableMethod#0001
